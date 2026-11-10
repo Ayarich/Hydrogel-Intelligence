@@ -1,0 +1,19 @@
+{
+  "project": "Hydrogel Intelligence",
+  "dataset": "Source-reported GelMA YoungsModulus",
+  "unique_formulations": 12,
+  "specimen_records": 144,
+  "starting_formulations": 3,
+  "search_starting_sets": 165,
+  "best_observed_condition": {
+    "GelMA_pct": 20,
+    "curing_time_s": 90,
+    "mean_modulus_kPa": 193.38225
+  },
+  "GPR_UCB": {
+    "mean_total_experiments": 4.975757575757576
+  },
+  "random_expected_total_experiments": 8.0,
+  "validation_type": "Retrospective finite-design benchmark",
+  "prospective_validation": false
+}
